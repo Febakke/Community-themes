@@ -1,5 +1,5 @@
 {
-  "theme": {
+  "purple": {
     "main": {
       "$type": "fontFamilies",
       "$value": "Inter"
