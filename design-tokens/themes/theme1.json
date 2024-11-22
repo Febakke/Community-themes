@@ -3,332 +3,332 @@
     "accent": {
       "1": {
         "$type": "color",
-        "$value": "{green.accent.1}"
+        "$value": "{theme1.accent.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{green.accent.2}"
+        "$value": "{theme1.accent.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{green.accent.3}"
+        "$value": "{theme1.accent.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{green.accent.4}"
+        "$value": "{theme1.accent.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{green.accent.5}"
+        "$value": "{theme1.accent.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{green.accent.6}"
+        "$value": "{theme1.accent.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{green.accent.7}"
+        "$value": "{theme1.accent.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{green.accent.8}"
+        "$value": "{theme1.accent.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{green.accent.9}"
+        "$value": "{theme1.accent.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{green.accent.10}"
+        "$value": "{theme1.accent.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{green.accent.11}"
+        "$value": "{theme1.accent.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{green.accent.12}"
+        "$value": "{theme1.accent.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{green.accent.13}"
+        "$value": "{theme1.accent.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{green.accent.contrast-1}"
+        "$value": "{theme1.accent.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{green.accent.contrast-2}"
+        "$value": "{theme1.accent.contrast-2}"
       }
     },
     "neutral": {
       "1": {
         "$type": "color",
-        "$value": "{green.neutral.1}"
+        "$value": "{theme1.neutral.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{green.neutral.2}"
+        "$value": "{theme1.neutral.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{green.neutral.3}"
+        "$value": "{theme1.neutral.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{green.neutral.4}"
+        "$value": "{theme1.neutral.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{green.neutral.5}"
+        "$value": "{theme1.neutral.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{green.neutral.6}"
+        "$value": "{theme1.neutral.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{green.neutral.7}"
+        "$value": "{theme1.neutral.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{green.neutral.8}"
+        "$value": "{theme1.neutral.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{green.neutral.9}"
+        "$value": "{theme1.neutral.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{green.neutral.10}"
+        "$value": "{theme1.neutral.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{green.neutral.11}"
+        "$value": "{theme1.neutral.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{green.neutral.12}"
+        "$value": "{theme1.neutral.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{green.neutral.13}"
+        "$value": "{theme1.neutral.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{green.neutral.contrast-1}"
+        "$value": "{theme1.neutral.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{green.neutral.contrast-2}"
+        "$value": "{theme1.neutral.contrast-2}"
       }
     },
     "brand1": {
       "1": {
         "$type": "color",
-        "$value": "{green.brand1.1}"
+        "$value": "{theme1.brand1.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{green.brand1.2}"
+        "$value": "{theme1.brand1.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{green.brand1.3}"
+        "$value": "{theme1.brand1.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{green.brand1.4}"
+        "$value": "{theme1.brand1.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{green.brand1.5}"
+        "$value": "{theme1.brand1.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{green.brand1.6}"
+        "$value": "{theme1.brand1.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{green.brand1.7}"
+        "$value": "{theme1.brand1.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{green.brand1.8}"
+        "$value": "{theme1.brand1.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{green.brand1.9}"
+        "$value": "{theme1.brand1.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{green.brand1.10}"
+        "$value": "{theme1.brand1.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{green.brand1.11}"
+        "$value": "{theme1.brand1.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{green.brand1.12}"
+        "$value": "{theme1.brand1.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{green.brand1.13}"
+        "$value": "{theme1.brand1.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{green.brand1.contrast-1}"
+        "$value": "{theme1.brand1.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{green.brand1.contrast-2}"
+        "$value": "{theme1.brand1.contrast-2}"
       }
     },
     "brand2": {
       "1": {
         "$type": "color",
-        "$value": "{green.brand2.1}"
+        "$value": "{theme1.brand2.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{green.brand2.2}"
+        "$value": "{theme1.brand2.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{green.brand2.3}"
+        "$value": "{theme1.brand2.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{green.brand2.4}"
+        "$value": "{theme1.brand2.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{green.brand2.5}"
+        "$value": "{theme1.brand2.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{green.brand2.6}"
+        "$value": "{theme1.brand2.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{green.brand2.7}"
+        "$value": "{theme1.brand2.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{green.brand2.8}"
+        "$value": "{theme1.brand2.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{green.brand2.9}"
+        "$value": "{theme1.brand2.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{green.brand2.10}"
+        "$value": "{theme1.brand2.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{green.brand2.11}"
+        "$value": "{theme1.brand2.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{green.brand2.12}"
+        "$value": "{theme1.brand2.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{green.brand2.13}"
+        "$value": "{theme1.brand2.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{green.brand2.contrast-1}"
+        "$value": "{theme1.brand2.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{green.brand2.contrast-2}"
+        "$value": "{theme1.brand2.contrast-2}"
       }
     },
     "brand3": {
       "1": {
         "$type": "color",
-        "$value": "{green.brand3.1}"
+        "$value": "{theme1.brand3.1}"
       },
       "2": {
         "$type": "color",
-        "$value": "{green.brand3.2}"
+        "$value": "{theme1.brand3.2}"
       },
       "3": {
         "$type": "color",
-        "$value": "{green.brand3.3}"
+        "$value": "{theme1.brand3.3}"
       },
       "4": {
         "$type": "color",
-        "$value": "{green.brand3.4}"
+        "$value": "{theme1.brand3.4}"
       },
       "5": {
         "$type": "color",
-        "$value": "{green.brand3.5}"
+        "$value": "{theme1.brand3.5}"
       },
       "6": {
         "$type": "color",
-        "$value": "{green.brand3.6}"
+        "$value": "{theme1.brand3.6}"
       },
       "7": {
         "$type": "color",
-        "$value": "{green.brand3.7}"
+        "$value": "{theme1.brand3.7}"
       },
       "8": {
         "$type": "color",
-        "$value": "{green.brand3.8}"
+        "$value": "{theme1.brand3.8}"
       },
       "9": {
         "$type": "color",
-        "$value": "{green.brand3.9}"
+        "$value": "{theme1.brand3.9}"
       },
       "10": {
         "$type": "color",
-        "$value": "{green.brand3.10}"
+        "$value": "{theme1.brand3.10}"
       },
       "11": {
         "$type": "color",
-        "$value": "{green.brand3.11}"
+        "$value": "{theme1.brand3.11}"
       },
       "12": {
         "$type": "color",
-        "$value": "{green.brand3.12}"
+        "$value": "{theme1.brand3.12}"
       },
       "13": {
         "$type": "color",
-        "$value": "{green.brand3.13}"
+        "$value": "{theme1.brand3.13}"
       },
       "contrast-1": {
         "$type": "color",
-        "$value": "{green.brand3.contrast-1}"
+        "$value": "{theme1.brand3.contrast-1}"
       },
       "contrast-2": {
         "$type": "color",
-        "$value": "{green.brand3.contrast-2}"
+        "$value": "{theme1.brand3.contrast-2}"
       }
     }
   },
   "font": {
     "family": {
       "$type": "fontFamilies",
-      "$value": "{green.main}"
+      "$value": "{theme1.main}"
     }
   },
   "font-weight": {
     "medium": {
       "$type": "fontWeights",
-      "$value": "{green.bold}"
+      "$value": "{theme1.bold}"
     },
     "semibold": {
       "$type": "fontWeights",
-      "$value": "{green.extra-bold}"
+      "$value": "{theme1.extra-bold}"
     },
     "regular": {
       "$type": "fontWeights",
-      "$value": "{green.regular}"
+      "$value": "{theme1.regular}"
     }
   },
   "border-radius": {
