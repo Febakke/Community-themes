@@ -60,7 +60,7 @@
     "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:0",
-    "group": "Mode"
+    "group": "Color scheme"
   },
   {
     "name": "Dark",
@@ -72,7 +72,7 @@
     "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:1",
-    "group": "Mode"
+    "group": "Color scheme"
   },
   {
     "name": "Contrast",
@@ -84,7 +84,7 @@
     "id": "9ebd8aed52afbffc17e2666e8b4653a53498b123",
     "$figmaCollectionId": "VariableCollectionId:34811:5472",
     "$figmaModeId": "34811:2",
-    "group": "Mode"
+    "group": "Color scheme"
   },
   {
     "id": "541629445ef90ad5363f9e88f52a1ccb617e6f84",
