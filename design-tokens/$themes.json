@@ -75,18 +75,6 @@
     "group": "Color scheme"
   },
   {
-    "name": "Contrast",
-    "selectedTokenSets": {
-      "primitives/modes/color-scheme/contrast/global": "enabled",
-      "primitives/modes/color-scheme/contrast/theme1": "enabled",
-      "primitives/modes/color-scheme/contrast/theme2": "enabled"
-    },
-    "id": "9ebd8aed52afbffc17e2666e8b4653a53498b123",
-    "$figmaCollectionId": "VariableCollectionId:34811:5472",
-    "$figmaModeId": "34811:2",
-    "group": "Color scheme"
-  },
-  {
     "id": "541629445ef90ad5363f9e88f52a1ccb617e6f84",
     "name": "Semantic",
     "selectedTokenSets": {
